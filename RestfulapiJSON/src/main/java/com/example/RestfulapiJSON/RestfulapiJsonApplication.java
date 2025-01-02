@@ -28,7 +28,7 @@ public class RestfulapiJsonApplication {
 	}
 	
 	private List<Map<String, Object>> dataList = new ArrayList<>();
-	// GitHub 테스트 입니다. 2번째 commit 입니다.4444444444444444444
+	// GitHub 테스트 입니다. 2번째 commit 입니다.4444444444444444444%%%%%%%%%%%%%%%%%%%%%%
 	
     // POST: 데이터 추가 
     @PostMapping("/data")
